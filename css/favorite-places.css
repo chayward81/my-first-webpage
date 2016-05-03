@@ -1,0 +1,21 @@
+h1 {
+  text-color: red;
+  background-color: grey;
+  font-family: Garamond;
+}
+
+h3 {
+  text-color: grey;
+  background-color: red;
+  font-family: Impact;
+}
+
+ul {
+  text-color: blue;
+  font-family: Arial;
+}
+
+li {
+  text-color: white;
+  background-color: green;
+}
